@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Exercise 01</title>
+</head>
+<body bgcolor="black">
+<h2 style="color:cyan;"> Designed for developers</h2>
+
+<h1 style="color:white;">The world's most powerful and easy -to-
+use APIs</h1>
+
+<p style="color:darkgray;">we agonize over the right abstractions so your tea
+ms don't need to stitch together disparate systems or soend months integrating p
+ayment functionality</p>
+</body>
+</html>
