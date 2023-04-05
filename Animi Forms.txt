@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .rect{
+            height: 50px;
+            width: 600px;
+            background-color: coral;
+            position: relative;
+            top: -70px;
+            left: -2px;
+            padding: 0%;
+            z-index:-120;
+            border-radius: 15px;
+        }
+        h1{
+            position: relative;
+            right: -185px;
+            color: white;
+
+        }
+        .bat{
+            padding: 0%;
+            height: 45px;
+            width: 45px;
+            position: relative;
+            top: 63px;
+            left: 130px;
+            color: white;
+        }
+        .bat2{
+            padding: 0%;
+            height: 45px;
+            width: 45px;
+            position: relative;
+            top: 63px;
+            right: -380px;
+        }
+        .o{
+            position: absolute;
+            top: 0px;
+            left: 2px;
+        }
+        .des{
+            position: relative;
+            right: -300px;
+            top: -320px;
+        }
+        .txts{
+            position: relative;
+            left: 1cm;
+            font: weight 1000px;;
+            color: white;
+            top: -2cm;
+        }
+        button{
+            position: relative;
+            top: 40px;
+            right: 200px;
+            height: 30px;
+            width: 150px;
+            background-color: coral;
+            border: 0;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        body{
+            background-color: rgb(45, 43, 156);
+        }
+        .b1{
+            background: none;
+            border: 2px solid coral;
+            border-radius: 5px;
+        }
+        .b2{
+            background: none;
+            border: 2px solid coral;
+            border-radius: 5px;
+        }
+        .b3{
+            background: none;
+            border: 2px solid coral;
+            border-radius: 5px;
+        }
+        .b4{
+            background: none;
+            border: 2px solid coral;
+            border-radius: 5px;
+        }
+        .b5{
+            background: none;
+            border: 2px solid coral;
+            border-radius: 5px;
+        }
+        .b6{
+            background: none;
+            border: 2px solid coral;
+            border-radius: 5px;
+        }
+        button:hover{
+            background-color:chocolate;
+        }
+        .he{
+            position:relative;
+            top: -70px;
+            left: -10px;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <div class="he">
+        <img class="bat" src="https://www.freeiconspng.com/thumbs/batman-icon-png/batman-icon-png-16.png" alt=""><img class="bat2" src="https://www.freeiconspng.com/thumbs/batman-icon-png/batman-icon-png-16.png" alt="">
+        <h1></h1>
+        <h3 id="heading">ANIMI FORMS</h3>
+        <div class="rect">
+</div>
+        </div>
+        <div class="txts">
+        <label id="nameTextBox">ANIMI-Name</label><br>
+        <input class="b1" type="text"><br><br><br>
+        <label id="countryTextBox">ANIMI(ORIGIN-COUNTRY)</label><br>
+        <input class="b2" type="text"><br><br><br>
+        <label id="noOfEpisodeTextBox">No.Of.Episodes</label><br>
+        <input class="b3" type="text"><br><br><br>
+        <label id="yourRatingTextBox">YOUR RATING</label><br>
+        <input class="b4" type="text"><br><br><br>
+        <label id="awardsTextBox">AWARDS</label><br>
+        <input class="b5" type="text"><br><br><br>
+        <div class="des">
+        <label id="descriptionTextBox">DESCRIPTION ABOUT THE ANIMI</label><br>
+        <textarea class="b6" name="" id="" cols="30" rows="10"></textarea>
+        <button id="submitButton">SUBMIT</button>
+    </div>
+    </div>
+    </form>
+</body>
+</html>
