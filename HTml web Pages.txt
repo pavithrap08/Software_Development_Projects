@@ -1,0 +1,56 @@
+<html>
+<body bgcolor="#FAE5D3">
+<center>
+<h1 id="table-heading">TABLES AND LISTS</h1>
+<table id="courseTable" border=1>
+<tr>
+<th>Roll
+No</th><th>Name</th><th>Course</th><th>Department</th>
+</tr>
+<tr>
+<td>001</td>
+<td>AAA</td>
+<td>SDP</td>
+<td>CSE</td>
+</tr>
+<tr>
+<td>002</td>
+<td>BBB</td>
+<td>C++</td>
+<td>CSE</td>
+
+</tr>
+</table>
+<ul id="courseHeading" style=list-style-position:inside;>
+<h2 id="courseList">No of Courses Available</h2>
+<li>Computer Science</li>
+<li>Electronics</li>
+<li>Aeronautics</li>
+<li>Mechanical</li>
+<li>Artificial Intelligence</li>
+</ul></center>
+
+<iframe id="frameHeading" src="https://encrypted-
+tbn0.gstatic.com/images?q=tbn:ANd9GcTt3lzoyS_qdS1Ovlxu8CpZx1u6Cf99P
+
+XMcS0pR16Ys83NSXzN2Z5CVsOlL6Iu78pxCYHI&usqp=CAU.jpg"></ifram
+e>
+
+<iframe id="frameImage1" src="https://encrypted-
+tbn0.gstatic.com/images?q=tbn:ANd9GcTt3lzoyS_qdS1Ovlxu8CpZx1u6Cf99P
+
+XMcS0pR16Ys83NSXzN2Z5CVsOlL6Iu78pxCYHI&usqp=CAU.jpg"></ifram
+e>
+
+<iframe id="frameImage2" src="https://encrypted-
+tbn0.gstatic.com/images?q=tbn:ANd9GcTt3lzoyS_qdS1Ovlxu8CpZx1u6Cf99P
+
+XMcS0pR16Ys83NSXzN2Z5CVsOlL6Iu78pxCYHI&usqp=CAU.jpg"></ifram
+e>
+<form id="login-form">
+<label id="submit_btn"></label>
+<input type="text" id="submit_btn">
+<button id="submit_btn">Submit</button>
+</form>
+</body>
+</html>
