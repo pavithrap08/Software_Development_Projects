@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Photography images</title>
+
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+
+    <div>
+
+ 
+
+    <div class="container">
+
+        <h1 id="titleName"> NEO PHOTOGRAPHY</h1>
+
+        <h2 id="titleDescription">Beautiful Commercial Photography</h2>
+
+        <a onclick="myFunction()" id="viewWork">View Work</a>
+
+    </div>
+
+    <div id="images">
+
+    <div class="image">
+
+        <img src="https://media.istockphoto.com/id/1411187978/photo/aerial-panoramic-photo-of-south-of-athens-greece-over-neo-faliro-pireas-moschato-marina.jpg?b=1&s=170667a&w=0&k=20&c=ml__XE9qHZq5xRoH8Xt1w0HcDxddvdJ2BDkxDHM9Kp4=" width="500" height="300" alt="pic1" id="backGroundImage" >
+
+    </div>
+
+    <div class="image">
+
+        <h3 id="ourWork"> Our Work</h3>
+
+        <img src="https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731__480.jpg" width="500" height="300" alt="pic2" id="firstImage" >
+
+    </div>
+
+    <div class="image">
+
+        <img src="https://media.istockphoto.com/id/635911456/photo/blended-fruit-smoothies.jpg?b=1&s=170667a&w=0&k=20&c=gLnM0HnP5uIPG662fgUgSE9OCZxkWyRC6sWdW2ouzwY=" width="500" height="300" alt="pic3" id="secondImage"><p id="firstImageName"> Food Photography </p>
+
+       
+
+    </div>
+
+    <div class="image">
+
+        <img src="https://store.dji.com/guides/wp-content/uploads/2019/04/68cacd73-8dc9-43fb-bb22-be6fd2f3ea18.jpg" width="500" height="300" alt="pic4" id="thirdImage">
+
+        <p id="secondImageName">Aerial Photography</p>
+
+    </div>
+
+    <div class="image">
+
+        <img src="http://3.bp.blogspot.com/-vFjkGY43PHw/UXc2r1Nw2-I/AAAAAAAAARI/NVFbjVHumJc/s1600/steel-wool-photography-JD-1776.jpg" width="500" height="300" alt="pic5" id="fourthImage">
+
+        <p id="thirdImageName">Abstract Photography</p>
+
+    </div>
+
+</div>
+
+</div>
+
+ 
+
+</body>
+
+<script>
+
+    function myFunction(){
+
+        var x = document.getElementById("images");
+
+        if (x.style.display === "none") {
+
+            x.style.display = "block";
+
+        } else {
+
+            x.style.display = "none";
+
+        }
+
+    }
+
+</script>
+
+</html>
