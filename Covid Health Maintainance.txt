@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covid Health Maintenance</title>
+</head>
+<body>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="titleName">Easy steps</h1>
+    <img id="health1" src="https://cdn2.hubspot.net/hubfs/3326027/Imported_Blog_Media/GettyImages-854725402-1.jpg" alt="">
+    <h1 id="healthDescription1">Eat fruits</h1>
+    <p id="healthParagraph1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed numquam modi facilis quo officia ipsum atque, ratione quos nulla quia.</p>
+    <h1 id="healthDescription2">Excerise</h1>
+    <p id="healthParagraph2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed numquam modi facilis quo officia ipsum atque, ratione quos nulla quia Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam veniam, laudantium architecto ad iure atque ducimus illum, molestiae minima, officia blanditiis! Aspernatur, voluptatem tempore sed ipsum ratione exercitationem numquam, nemo sit doloremque delectus aliquid minus accusantium. Sapiente itaque quibusdam, eaque minus praesentium ut hic natus voluptatem animi! Placeat, ea recusandae..</p>
+    <img src="https://cdn5.vectorstock.com/i/1000x1000/37/99/people-performing-different-sports-exercises-vector-35513799.jpg" id="health2" alt="">
+    <img id="health3" src="https://cdn.shopify.com/s/files/1/1728/2157/articles/107_e53049df-0f35-4369-bf7d-7720e1db3444.jpg?v=1492120594" alt="">
+    <h1 id="healthDescription3">emotional health</h1>
+    <p id="healthParagraph3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed numquam modi facilis quo officia ipsum atque, ratione quos nulla quia Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam veniam, laudantium architecto ad iure atque ducimus illum, molestiae minima, officia blanditiis! Aspernatur, voluptatem tempore sed ipsum ratione exercitationem numquam, nemo sit doloremque delectus aliquid minus accusantium. Sapiente itaque quibusdam, eaque minus praesentium ut hic natus voluptatem animi! Placeat, ea recusandae..</p>
+    <img id="health4" src="https://domf5oio6qrcr.cloudfront.net/medialibrary/7909/conversions/b8a1309a-ba53-48c7-bca3-9c36aab2338a-thumb.jpg" alt="">
+    <h1 id="healthDescription4">drink water</h1>
+    <p id="healthParagraph4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed numquam modi facilis quo officia ipsum atque, ratione quos nulla quia Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam veniam, laudantium architecto ad iure atque ducimus illum, molestiae minima, officia blanditiis! Aspernatur, voluptatem tempore sed ipsum ratione exercitationem numquam, nemo sit doloremque delectus aliquid minus accusantium. Sapiente itaque quibusdam, eaque minus praesentium ut hic natus voluptatem animi! Placeat, ea recusandae..</p>
+    <img id="health5" src="https://imageio.forbes.com/specials-images/imageserve/5f6c061ca71799093f55fd02/0x0.jpg?format=jpg&crop=5023,3350,x0,y0,safe&width=1200" alt="">
+    <h1 id="healthDescription5">drink water</h1>
+    <p id="healthParagraph5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed numquam modi facilis quo officia ipsum atque, ratione quos nulla quia Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam veniam, laudantium architecto ad iure atque ducimus illum, molestiae minima, officia blanditiis! Aspernatur, voluptatem tempore sed ipsum ratione exercitationem numquam, nemo sit doloremque delectus aliquid minus accusantium. Sapiente itaque quibusdam, eaque minus praesentium ut hic natus voluptatem animi! Placeat, ea recusandae..</p>
+
+    
+</body>
+</html>
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+body{
+    background-color: aqua;
+}
+#titleName{
+    width: 100%;
+    text-align: center;
+}
+#health1{
+    position: relative;
+    width: 40%;
+    margin-top: 7%;
+}
+#healthDescription1{
+    position: relative;
+    left: 30%;
+    display: inline-block;
+    }
+#healthParagraph1{
+    position: relative;
+    left: 40%;
+    display: inline-block;
+}
+#healthDescription2{
+    position: relative;
+    margin-top: 20%;
+}
+#healthParagraph2{
+    position: relative;
+    width: 50%;
+}
+#health2{
+    position: relative;
+    width: 20%;
+    left: 60%;
+    margin-bottom: 60%;
+}
+#health3{
+   width: 20%;
+   position: relative;
+   margin-bottom: 30%;
+}
+#healthDescription3{
+    position: relative;
+    margin-top: -20%;
+}
+#healthParagraph4{
+    position: relative;
+}
