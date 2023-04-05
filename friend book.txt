@@ -1,0 +1,57 @@
+<html>
+<head>
+<style>
+body{
+
+background-image: url('https://encrypted-
+tbn0.gstatic.com/images?q=tbn:ANd9GcQY7tYhvmDuaD0Ds3IBjka7QkYinin
+
+oWhAgRN1-qHJnhQ&s.jpg');
+background-size: 100% 100%;
+}
+</style>
+<title id="titleName">Friends Books</title>
+</head>
+<body>
+<center><h1>FRIENDS BOOK</h1><form>
+<label id="yourName">Your Name:</label>
+<input id="textBox" type="text"><br><br>
+<label id="field1">1. A message for me:</label><br><br>
+<input id="textBox1" type="text"><br><br>
+<label id="field2">2. A nick for me:</label><br><br>
+
+<input id="textBox2" type="text"><br><br>
+<label id="field3">3. Have you ever lied to me:</label><br><br>
+<input id="yesMaybe" type="radio">
+<label id="yes">Yes</label>
+<input id="yesMaybe" type="radio">
+<label id="yes">Maybe</label><br><br>
+<label id="field4">4. How do you feel when you talk to me:</label><br><br>
+<input id="happy" type="radio">
+<label id="yes">Happy</label>
+<input id="happy" type="radio">
+<label id="yes">Irritated</label><br><br>
+<label id="field5">5. Do you like to go on a roadtrip with
+me:</label><br><br>
+<input id="no" type="radio">
+<label id="yes">Yes</label>
+<input id="no" type="radio">
+<label id="yes">No</label><br><br>
+<label id="bestColour">6. Best Colour that suits me:</label><br><br>
+<input id="bestColour" type="checkbox">
+<label id="yes">White</label>
+<input id="yesMaybe" type="checkbox">
+<label id="yes">Black</label>
+<input id="yesMaybe" type="checkbox">
+<label id="yes">Green</label>
+<input id="yesMaybe" type="checkbox">
+<label id="yes">Blue</label><br><br>
+<label id="field1">7.The best moment in our Friendship:</label><br><br>
+<input id="textBox3" type="text">
+
+<img id="backgroundImage">
+</form>
+</center>
+</div>
+</body>
+</html>
