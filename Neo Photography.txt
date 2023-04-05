@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neo Photography</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div>
+
+<div class="container">
+<h1 id="titleName"> NEO PHOTOGRAPHY</h1>
+<h2 id="titleDescription">Beautiful Commercial Photography</h2>
+<a onclick="myFunction()" id="viewWork">View Work</a>
+</div>
+<div id="images">
+<div class="image">
+
+<img src="https://encrypted-
+tbn0.gstatic.com/images?q=tbn:ANd9GcSkU4avw_0GdH6P9rDVVEUuHHllDf
+
+3-6lIwzpI70ISDbQ&s" alt="pic1" id="backGroundImage" >
+</div>
+<div class="image">
+<h3 id="ourWork"> Our Work</h3>
+
+<img src="https://media.istockphoto.com/id/1196172395/photo/in-the-
+photo-studio-with-professional-equipment-portrait-of-the-famous-photographer-
+
+holding.jpg?s=612x612&w=0&k=20&c=utO4aHRyA5ZUAYxbk9NelmhR1_E
+5-AOWUWcqDMP-NXE=" alt="pic2" id="firstImage" >
+</div>
+<div class="image">
+<img
+src="https://cdn.mos.cms.futurecdn.net/gvQ9NhQP8wbbM32jXy4V3j.jpg"
+alt="pic3" id="secondImage"><p id="firstImageName"> Food Photography
+</p>
+</div>
+<div class="image">
+<img src="https://images.unsplash.com/photo-1542038784456-
+
+1ea8e935640e?ixlib=rb-
+4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGhvdG9ncmFwaHl8Z
+
+W58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="pic4"
+id="thirdImage">
+<p id="secondImageName">Aerial Photography</p>
+</div>
+<div class="image">
+<img src="https://images.unsplash.com/photo-1554080353-
+
+a576cf803bda?ixlib=rb-
+4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGhvdG9ncmFwaHl8Z
+
+W58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="pic5"
+id="fourthImage">
+<p id="thirdImageName">Abstract Photography</p>
+</div>
+</div>
+</div>
+</body>
+<script>
+function myFunction(){
+var x = document.getElementById("images");
+
+if (x.style.display === "none") {
+x.style.display = "block";
+} else {
+x.style.display = "none";
+}
+}
+</script>
+</html>
