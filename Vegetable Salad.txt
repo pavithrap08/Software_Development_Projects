@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vegetable Salad</title>
+</head>
+<body>
+    <body bgcolor="lightgreen">
+        <center>
+            <h1 id="titleName">Vegetable Salad</h1>
+        <img src="https://realfood.tesco.com/media/images/RFO-1400x919-Roasted-veg-salad-with-cashew-dressing-mini-5d03a1f0-1c52-4662-aff4-d968f08cb5f6-0-1400x919.jpg" id="vegetableSaladImage" width="30%">
+        <h2 id="benefits">Benefits of Vegetable</h2>
+        <p id="benefitsParagraph">Aside from their natural good taste and crunchy texture alongside wonderful colors and fragrances,eating a large serving of fresh, raw vegetables each day can have significant health benefits </p>
+        <h2 id="steps">Steps to make Vegetable Salad</h3>
+        <ul id="stepForVegetableSalad">
+            <li id="stepForVegetableSalad">Take a large and clear glass bowl</li>
+            <li id="stepForVegetableSalad">Try adding blanched,lightly streamed or roasted veggies like broccoli,french beans,corn etc... </li>
+            <li id="stepForVegetableSalad">Add lentils,beans or chickpeas or sprouts for more protien</li>
+            <li id="stepForVegetableSalad">Grate some of the vegetables for a different texture</li>
+            <li id="stepForVegetableSalad">Add marinated veggies like Artichoke hearts for tang,other veggies like raddish</li>
+            <li id="stepForVegetableSalad">Swap in your own favourite combination of nuts and seads</li>
+            <li id="stepForVegetableSalad">Use fresh coriander otherwise instead of parsley.</li>
+        </ul>
+        
+        <footer id="footerText">This easy vegetable salad is packed with a variety of summer produce with all the texture and colors one could ever want</footer>
+    </center>
+</body>
+</html>
