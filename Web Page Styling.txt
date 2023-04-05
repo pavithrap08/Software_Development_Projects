@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page Styling</title>
+</head>
+<body>
+    <nav id="navigationPannel">
+        <h3 id="headingLists">CSS Of webPages</h3>
+        <ul id="lists">
+            <li><a id="login" href="#login">Login</a></li>
+            <li><a id="table" href="#table">Table</a> </li>
+            <li><a id="image" href="#image">Image</a></li>
+            <li><a id="frames" href="#frames">Frames</a></li>
+    </nav>
+    <h1 id="title">WEB PAGE STYLING WITH CSS</h1>
+    <p id="description">Each icon has its own navigation link, it can be moved to different web pages</p>
+    <h1 id="login-heading">LOGIN</h1>
+    <button id="submit_btn">
+        SUBMIT</button>
+    <h1 id="table-headings">TABLE AND LISTS</h1>
+    <table id="courseTable">
+        <tr>
+            <td>Roll No.</td>
+            <td>Name</td>
+            <td>Course</td>
+            <td>Department</td>
+        </tr>
+        <tr>
+            <td>101</td>
+            <td>ABC</td>
+            <td>Computer</td>
+            <td>CS</td>
+        </tr>
+    </table>
+    <h1 id="courseHeading">No. Of Courses Available</h1>
+    <ul id="courseList">
+        <li>Computer Science</li>
+        <li>Electronics</li>
+        <li>Aeronautics</li>
+    </ul>
+    <h1 id="title">Image Map</h1>
+    <img id="images" src-"" alt="">
+    <h1 id="frameHeading">FRAMES IN HTML</h1>
+    <iframe src="url" id="frameImage1"></iframe>
+    <iframe src="url" id="frameImage2"></iframe>
+
+</body>
+</html>
