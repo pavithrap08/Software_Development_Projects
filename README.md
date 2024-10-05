@@ -10,7 +10,7 @@ Chronometer: Developed a sleek and functional stopwatch application.
 
 Covid Health Maintenance: An app aimed at helping users maintain their health during the pandemic.
 
-HTml Web Pages: A collection of web pages showcasing various HTML5 features.
+HTML Web Pages: A collection of web pages showcasing various HTML5 features.
 
 Marvel Universe: A fan project exploring the vast world of Marvel characters and stories.
 
